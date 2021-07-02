@@ -43,15 +43,15 @@ https://www.loom.com/share/a5cb3aba461f4c42a0ae09cb2605d54c
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Yes. I  think the lab from Day 3 of Week 3 really helped me set up my backend. 
+Yes. I  think the lab from Day 3 of Week 3 really helped me set up my backend. I also appreciated the introduction of custom hooks and context becuase it really helped me organize my code and develop much faster. I felt uneasy about implementing the form for the detailed activity page, especially about how to make calls to the backend for that feauture. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-[Add your response here]
+Given more time, I would've like to create more custom hooks and perhaps add to the context to improve the readablity of my code. I think some of my code is to single purpose and could be generalized to be more reusable. For example, the Modal component is specially configured for the Exercise Activity.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-[Add your response here]
+I'm happy with my project demo. I think I had a good pace and showed all of the features I implemented. I think it would have been nice to talk about/show how I refactored some of my code after using custom hooks.
 
 ### Open-source libraries used
 
@@ -61,4 +61,4 @@ Yes. I  think the lab from Day 3 of Week 3 really helped me set up my backend.
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-[Add your response here]
+I'd like to shoutout my capstone pod for being incredibly fun and supportive.
