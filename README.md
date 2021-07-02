@@ -61,4 +61,4 @@ I'm happy with my project demo. I think I had a good pace and showed all of the 
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-I'd like to shoutout my capstone pod for being incredibly fun and supportive.
+[I'd like to shoutout my capstone pod for being incredibly fun and supportive.]
