@@ -3,6 +3,8 @@
 Submitted by: **Robert Velasco**
 
 Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
+Frontend Repo: [Lifetracker UI](https://github.com/SanCebar/life_tracker_ui)
+Old Repo with commit history: [Lifetracker DEMO](https://github.com/SanCebar/Life_Tracker_DEMO)
 
 ## Application Features
 
@@ -61,4 +63,4 @@ I'm happy with my project demo. I think I had a good pace and showed all of the 
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-[I'd like to shoutout my capstone pod for being incredibly fun and supportive.]
+I'd like to shoutout my capstone pod for being incredibly fun and supportive.
