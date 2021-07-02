@@ -25,7 +25,7 @@ Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 - [x] The detailed activity page should display a feed of all previous tracked activities.
 - [x] The detailed activity should contain a form to contain relevant information. (i.e if tracking nutrition this form allows the user to capture calories, timestamp, image, category, etc.) 
 - [x] The activity tracked should be given a unique id for easy lookup.
-  * [Table Schema](📝https://github.com/SanCebar/life_tracker_api/blob/main/life-tracker-schema.sql) 
+  * [https://github.com/SanCebar/life_tracker_api/blob/main/life-tracker-schema.sql] 
 
 ### Stretch Features
 
