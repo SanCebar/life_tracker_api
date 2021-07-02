@@ -2,9 +2,9 @@
 
 Submitted by: **Robert Velasco**
 
-Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
-Frontend Repo: [Lifetracker UI](https://github.com/SanCebar/life_tracker_ui)
-Old Repo with commit history: [Lifetracker DEMO](https://github.com/SanCebar/Life_Tracker_DEMO)
+- Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
+- Frontend Repo: [Lifetracker UI](https://github.com/SanCebar/life_tracker_ui)
+- Old Repo with commit history: [Lifetracker DEMO](https://github.com/SanCebar/Life_Tracker_DEMO)
 
 ## Application Features
 
